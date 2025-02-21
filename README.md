@@ -25,6 +25,7 @@ Install on Printer: Mount the sensor near the extruder, connect it to the printe
 Calibrate: Adjust the tension settings according to your filament spool size.
 
 🎬 Video Resources
+
 Датчик застрягання філаменту - https://www.youtube.com/watch?v=korxhBE83_Q
 
 Перші випробування датчику застрягання пластику - https://www.youtube.com/watch?v=T5d1o9S1auE
