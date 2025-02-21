@@ -26,8 +26,11 @@ Calibrate: Adjust the tension settings according to your filament spool size.
 
 🎬 Video Resources
 Датчик застрягання філаменту - https://www.youtube.com/watch?v=korxhBE83_Q
+
 Перші випробування датчику застрягання пластику - https://www.youtube.com/watch?v=T5d1o9S1auE
+
 Датчик застрягання філаменту. Частина 3 - https://www.youtube.com/watch?v=CBTFaw4T_os
+
 Відеоінструкція зі зборки датчика - https://youtu.be/sx_0z-xglss
 
 
