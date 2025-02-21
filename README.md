@@ -19,7 +19,7 @@ The sensor is installed before the extruder, using a Teflon tube to guide the fi
 The next iteration of this project will include a filament diameter sensor, allowing real-time extrusion flow adjustments based on filament thickness, enhancing print quality and consistency.
 
 📚 Installation & Usage
-Download STL Files: Access the STL files from this repository.
+Download STEP Files: Access the STEP files from this repository.
 Print Sensor Parts: 3D print the sensor components using PLA/ABS or a durable filament.
 Assemble the Sensor: Follow the assembly guide in the docs folder.
 Install on Printer: Mount the sensor near the extruder, connect it to the printer's motherboard.
@@ -42,7 +42,7 @@ Calibrate: Adjust the tension settings according to your filament spool size.
 Наступна версія проєкту включатиме датчик діаметру філаменту, що дозволить у реальному часі коригувати потік пластику відповідно до змін діаметра прутка, підвищуючи якість і стабільність друку.
 
 📚 Встановлення та використання
-Завантажте STL файли: Доступні у цьому репозиторії.
+Завантажте STEP файли: Доступні у цьому репозиторії.
 Надрукуйте деталі датчика: Використовуйте PLA/ABS або інший міцний пластик.
 Зберіть датчик: Дотримуйтесь інструкції у папці docs.
 Встановіть на принтер: Закріпіть датчик біля екструдера, під'єднайте до материнської плати принтера.
