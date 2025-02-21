@@ -1,12 +1,11 @@
 3D Printer Filament Jam Sensor ("Ropuga")
 
-English Description
+
 
 🛠 Project Overview
 The "Ropuga" project is a multi-functional filament jam sensor designed to enhance the safety and efficiency of 3D printing. The sensor not only detects when the filament runs out but also identifies filament jams on the spool, preventing print failures and potential damage to the printer.
 
 💡 Key Features
-
 Filament Presence Detection: Monitors when filament is present and pauses the print if the filament runs out.
 Filament Jam Detection: Identifies situations where the filament is stuck on the spool, halting the print process to avoid print and hardware damage.
 Adjustable Tension Control: Allows fine-tuning of the spring tension to accommodate different filament spool weights, minimizing false positives.
@@ -19,14 +18,22 @@ The sensor is installed before the extruder, using a Teflon tube to guide the fi
 The next iteration of this project will include a filament diameter sensor, allowing real-time extrusion flow adjustments based on filament thickness, enhancing print quality and consistency.
 
 📚 Installation & Usage
-Download STEP Files: Access the STEP files from this repository.
+Download 3D Model Files: Access the 3D model files from this repository.
 Print Sensor Parts: 3D print the sensor components using PLA/ABS or a durable filament.
 Assemble the Sensor: Follow the assembly guide in the docs folder.
 Install on Printer: Mount the sensor near the extruder, connect it to the printer's motherboard.
 Calibrate: Adjust the tension settings according to your filament spool size.
-Опис українською мовою
+
+🎬 Video Resources
+Датчик застрягання філаменту - https://www.youtube.com/watch?v=korxhBE83_Q
+Перші випробування датчику застрягання пластику - https://www.youtube.com/watch?v=T5d1o9S1auE
+Датчик застрягання філаменту. Частина 3 - https://www.youtube.com/watch?v=CBTFaw4T_os
+Відеоінструкція зі зборки датчика - https://youtu.be/sx_0z-xglss
+
+
 
 🛠 Огляд проєкту
+
 "Ropuga" — це багатофункціональний датчик застрягання філаменту, розроблений для підвищення безпеки та ефективності 3D-друку. Датчик не лише фіксує відсутність філаменту, але й виявляє застрягання пластику на котушці, запобігаючи псуванню моделей і потенційному пошкодженню принтера.
 
 💡 Основні функції
@@ -42,7 +49,7 @@ Calibrate: Adjust the tension settings according to your filament spool size.
 Наступна версія проєкту включатиме датчик діаметру філаменту, що дозволить у реальному часі коригувати потік пластику відповідно до змін діаметра прутка, підвищуючи якість і стабільність друку.
 
 📚 Встановлення та використання
-Завантажте STEP файли: Доступні у цьому репозиторії.
+Завантажте файли 3D моделей: Доступні у цьому репозиторії.
 Надрукуйте деталі датчика: Використовуйте PLA/ABS або інший міцний пластик.
 Зберіть датчик: Дотримуйтесь інструкції у папці docs.
 Встановіть на принтер: Закріпіть датчик біля екструдера, під'єднайте до материнської плати принтера.
